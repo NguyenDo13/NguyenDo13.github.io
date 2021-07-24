@@ -1,0 +1,19 @@
+body{
+    background-repeat: no-repeat;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-happy-birthday-poster-hd-background-image_151102.jpg);
+    background-size: 100%;
+    width: 100px;
+    background-position: -10px 0px;
+    padding: 0px;
+    margin: 0px;
+}
+.noidung{
+    padding: 113px;
+    display: inline-block;
+    text-align: center;
+}
+h6{
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+}
